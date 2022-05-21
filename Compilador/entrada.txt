@@ -1,0 +1,59 @@
+void Suma()
+{
+	int x,y,z;
+	x=10;
+	y=5;
+	z=x+y;
+}
+void Resta()
+{
+	int u,v,w;
+	u=10;
+	v=5;
+	w=u-v;
+}
+void Multiplicacion()
+{
+	int e,f,g;
+	e=10;
+	f=5;
+	g=e*f;
+}
+void Division()
+{
+	int h,i,j;
+	h=10;
+	i=5;
+	j=h/i;
+}
+void seno(){
+	int k,l,m;
+	k=6;
+	l=11;
+	m=k/l;
+
+}
+void coseno(){
+	int n,o,p;
+	n=10;
+	o=11;
+	p=n/o;
+}
+void tangente(){
+	int r,s,t;
+	r=6;
+	s=10;
+	t=r/s;
+}
+int main(){
+	int a,b,d;
+	a=10;
+	b=5;
+	Suma();
+	Resta();
+	Multiplicacion();
+	Division();
+	seno();
+	coseno();
+	tangente();
+}
