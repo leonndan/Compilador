@@ -31,4 +31,5 @@ Una vez generado el archivo, con ayuda del MASM32 debera de abrir el archivo asm
 Cuando se generen los archivos, se procedera a ejecutar el archivo .exe y se debera de mostrar en consola lo que se escribio en el archivo entrada.txt;
 
 #Demostracion
+![image](https://user-images.githubusercontent.com/97914817/169629929-6861111e-0102-472e-a087-164c542fe4b5.png)
 
