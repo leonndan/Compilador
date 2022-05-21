@@ -30,7 +30,7 @@ Una vez generado el archivo, con ayuda del MASM32 debera de abrir el archivo asm
 
 Cuando se generen los archivos, se procedera a ejecutar el archivo .exe y se debera de mostrar en consola lo que se escribio en el archivo entrada.txt;
 
-#Demostracion
+#Ejemplo
 
 Procederemos a hacer una suma basica en el archivo de entrada.txt:
 ![image](https://user-images.githubusercontent.com/97914817/169629929-6861111e-0102-472e-a087-164c542fe4b5.png)
@@ -39,6 +39,10 @@ En consola se muestra el archivo asm generado:
 ![image](https://user-images.githubusercontent.com/97914817/169629963-f505d9f3-8eea-4576-9ff5-d4387d083817.png)
 
 ![image](https://user-images.githubusercontent.com/97914817/169629967-2814d4c9-03be-4bfd-bb1b-010590addff5.png)
+
+Usamos el MASM32 ejecutamos el .exe generado:
+![image](https://user-images.githubusercontent.com/97914817/169630041-802187d6-93f6-40f9-b05d-493f16305af8.png)
+
 
 
 
