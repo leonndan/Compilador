@@ -1,26 +1,28 @@
-# Compilador C++
+<h1>Compilador C++</h1>
 
-
-#Titulo
+<h2>Titulo</h2>
 
 Compilador en C++
 
-#Introduccion
+<h2>Introduccion</h2>
 
-A contuniacion podra ver mi proyecto de la clase de Traductores de lenguaje II que consiste en la elaboracion de un compilador, pasando por todas las fases del mismo, las cuales son:
-*Analizador Lexico
-*Analizador Sintactico
-*Analizador Semantico
-*Generacion de codigo ASM
+A contuniacion podra ver mi proyecto de la clase de Seminario de Traductores de lenguaje II que consiste en la elaboracion de un compilador, pasando por todas las fases del mismo, las cuales son:
+<ul>
+  <li>Analizador Lexico</li>
+  <li>Analizador Sintactico</li>
+  <li>Analizador Semantico</li>
+  <li>Generacion de codigo ASM</li>
+</ul>
 
-#Requisitos
+<h2>Requisitos</h2>
 
-Para poder probar el compilador debera de contar con los siguientes IDE:
+Para poder probar el compilador debera de contar con los siguientes programas:
+<ul>
+  <li>Codeblocks</li>
+  <li>MASM32</li>
+</ul>
 
-*Codeblocks
-*MASM32
-
-#Objetivo
+<h2>Objetivo</h2>
 
 El programa lee el archivo "entrada.txt" y comenzara todas las fases del compilador, una vez que el programa no detecte ningun error lexico, sintactico ni semantico procedera a la creacion del archivo ASM donde vendra el codigo ensamblador. El archivo generado tendra de nombre "salida.asm".
 
@@ -30,7 +32,7 @@ Una vez generado el archivo, con ayuda del MASM32 debera de abrir el archivo asm
 
 Cuando se generen los archivos, se procedera a ejecutar el archivo .exe y se debera de mostrar en consola lo que se escribio en el archivo entrada.txt;
 
-#Ejemplo
+<h2>Ejemplo</h2>
 
 Procederemos a hacer una suma basica en el archivo de entrada.txt:
 ![image](https://user-images.githubusercontent.com/97914817/169629929-6861111e-0102-472e-a087-164c542fe4b5.png)
